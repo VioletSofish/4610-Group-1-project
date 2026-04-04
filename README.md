@@ -3,12 +3,12 @@
 Sp26_61608_Group 1
 
 ## Team Members
-1. Violet Sofish: https://github.com/VioletSofish/4610-Group-1-project/tree/main#4610-group-1-project 
+1. Violet Sofish: https://github.com/VioletSofish/4610-Group-1-project#4610-group-1-project
 2. Lauren Harville: https://github.com/4610LaurenGit/Sp26_61608_Group-1.git 
-3. Andrew Heighton: 
+3. Andrew Heighton: https://github.com/AndrewHeighton/MIST4610GroupProject1.git
 4. Asanti Kumera: https://github.com/asanti00/MIST4610GroupProject1.git
 5. Aidan Pfeiffer: https://github.com/abp80036/MIST4610Group1.git
-6. Doc Rush: 
+6. Doc Rush: https://github.com/docrush/MIST-4610-Group-1-Telehealth 
    
 ## Problem Decsription
 We are a telehealth patient & provider portal focused on managing virtual clinic throughput and insurance reimbursement. We are responsible for making and facilitating appointments, patient-physician communications, and prescriptions. Physicians can have multiple specialties, appointments have a status, and encounter status and insurance claim payments are linked.
