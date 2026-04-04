@@ -3,7 +3,7 @@
 Sp26_61608_Group 1
 
 ## Team Members
-1. Violet Sofish: 
+1. Violet Sofish: https://github.com/VioletSofish/4610-Group-1-project/tree/main#4610-group-1-project 
 2. Lauren Harville: https://github.com/4610LaurenGit/Sp26_61608_Group-1.git 
 3. Andrew Heighton: 
 4. Asanti Kumera: https://github.com/asanti00/MIST4610GroupProject1.git
