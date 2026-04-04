@@ -42,4 +42,4 @@ There are a few different InsuranceProvider companies, each offering a handful o
 
 ## Database Information
 Name of the database: ns_Sp26_61608_Group1
-Additional Information: each marked query can be called using. _________
+Additional Information: each marked query can be called using CALL GP_Q1();
